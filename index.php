@@ -37,17 +37,17 @@
                   <div class="col-md act">
                     <img src="img/user.jpg" class="img-fluid">
                     <br>
-                    <a href="createuser.php"><button>Create a User</button></a>
+                    <a href="createuser.php"><button type="button" class="btn btn-info">Create a User</button></a>
                   </div>
                   <div class="col-md act">
                     <img src="img/transfer.jpg" class="img-fluid">
                     <br>
-                    <a href="transfermoney.php"><button>Make a Transaction</button></a>
+                    <a href="transfermoney.php"><button type="button" class="btn btn-info">Make a Transaction</button></a>
                   </div>
                   <div class="col-md act">
                     <img src="img/history.jpg" class="img-fluid">
                     <br>
-                    <a href="transactionhistory.php"><button>Transaction History</button></a>
+                    <a href="transactionhistory.php"><button type="button" class="btn btn-info">Transaction History</button></a>
                   </div>
             </div>
       </div>
