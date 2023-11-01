@@ -2,13 +2,13 @@ A web application used to tranfer virtual money between multiple users and also 
 
 
 <h1> Home Page </h1>
-<img src="https://github.com/ShantanuAhuja/The-Sparks-Banking-System/blob/462122beb652a5b2e3870c9d55221870ac93fc19/images/Screenshot%202023-11-01%20at%2010.42.56%20AM.png" width="1000" height="700" />
+<img src="https://github.com/ShantanuAhuja/The-Sparks-Banking-System/blob/462122beb652a5b2e3870c9d55221870ac93fc19/images/Screenshot%202023-11-01%20at%2010.42.56%20AM.png" width="900" height="600" />
 <h3>Here, is the home page of the website.  </h3>
 </br>
 </br>
 
 <h1> Create User Page </h1>
-<img src="https://github.com/ShantanuAhuja/QuizGame/blob/master/images/Screenshot_20230709_163145.jpg" width="200" height="400" />
+<img src="https://github.com/ShantanuAhuja/The-Sparks-Banking-System/blob/462122beb652a5b2e3870c9d55221870ac93fc19/images/Screenshot 2023-11-01 at 10.43.18 AM.png" width="900" height="600" />
 <h3> Here we can create users by entering email id, name and account balance. </h3>
 </br>
 </br>
